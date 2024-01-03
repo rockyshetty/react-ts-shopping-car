@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Mobile",
+    "price": 10.99,
+    "imgUrl": "/images/1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Beauty",
+    "price": 1199,
+    "imgUrl": "/images/2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Canon",
+    "price": 1.05,
+    "imgUrl": "/images/3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Fuji",
+    "price": 14000,
+    "imgUrl": "/images/3.jpg"
+  }
+]
